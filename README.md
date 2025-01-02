@@ -80,8 +80,7 @@ INSERT INTO products (id, nama, harga, stok) VALUES
 
 - Jika transaksi berhasil, tampilkan struk transaksi seperti berikut:
 
-![IMAGE](lab/ss8.png)
- 
+ ![IMAGE](lab/ss.png)
 
 
 
